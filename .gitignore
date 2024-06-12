@@ -1,0 +1,34 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de bytecode
+*.jar
+
+# Arquivos de diretórios de compilação
+/target/
+
+# Arquivos de configuração da IDE
+.idea/
+*.iml
+
+# Arquivos de configuração do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.swp
+*~
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db
